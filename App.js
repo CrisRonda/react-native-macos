@@ -6,6 +6,7 @@ import {
   TransitionPresets,
   TransitionSpecs,
 } from '@react-navigation/stack';
+import VideoPlayer from './src/screens/VideoPlayer';
 
 function HomeScreen() {
   const {navigate} = useNavigation();
@@ -61,6 +62,7 @@ function App() {
         screenOptions={{
           ...TransitionPresets.ModalPresentationIOS,
         }}>
+        <Stack.Screen name="VideoPlayer" component={VideoPlayer} />
         <Stack.Screen name="Home" component={HomeScreen} />
         <Stack.Screen
           name="Details"
