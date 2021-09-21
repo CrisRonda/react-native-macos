@@ -16,7 +16,12 @@
     "metro": "^0.66.2",
     "react": "17.0.2",
     "react-native": "0.65.1",
-    "react-native-macos": "^0.63.37"
+    "react-native-macos": "^0.63.37",
+    "@react-navigation/native": "^5.8.10",
+    "@react-navigation/stack": "^5.12.8",
+    "react-native-gesture-handler": "^1.9.0",
+    "react-native-safe-area-context": "^3.1.9",
+    "react-native-screens": "^2.16.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
