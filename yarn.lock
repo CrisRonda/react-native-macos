@@ -6286,6 +6286,11 @@ react-native-iphone-x-helper@^1.3.0:
   resolved "https://registry.yarnpkg.com/react-native-iphone-x-helper/-/react-native-iphone-x-helper-1.3.1.tgz#20c603e9a0e765fd6f97396638bdeb0e5a60b010"
   integrity sha512-HOf0jzRnq2/aFUcdCJ9w9JGzN3gdEg0zFE4FyYlp4jtidqU03D5X7ZegGKfT1EWteR0gPBGp9ye5T5FvSWi9Yg==
 
+react-native-jw-media-player@^0.1.57:
+  version "0.1.57"
+  resolved "https://registry.yarnpkg.com/react-native-jw-media-player/-/react-native-jw-media-player-0.1.57.tgz#972bfa1add2688a8f3520bfbc87324e4c3f15ec3"
+  integrity sha512-LOkd+DnxXA1MorLlzL6tIGx3aldXp7JTavr106fqAHCUiyF5w/OdWs4wU1O2M7YJ3Kn8JtmvH3tV/+Sh0i6wWA==
+
 react-native-macos@^0.63.37:
   version "0.63.37"
   resolved "https://registry.yarnpkg.com/react-native-macos/-/react-native-macos-0.63.37.tgz#d16cb4cf5cf31570f5e7d94a6652e879d8a6ba32"
