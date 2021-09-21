@@ -32,4 +32,5 @@ target 'macos_app_test-iOS' do
   end
 
   # Pods specifically for iOS target
+  pod 'JWPlayerKit', '>= 4.0.0'
 end
